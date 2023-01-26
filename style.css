@@ -1,0 +1,21 @@
+h1 {
+    color: green;
+    background: black;
+}
+
+p {
+    font-size: 20px;
+    color: blue;
+}
+
+.minhaClasse {
+    color: #ff0000;
+}
+
+#meuId {
+    color: green;
+}
+
+div p{
+    background: brown;
+}
